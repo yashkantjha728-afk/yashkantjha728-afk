@@ -123,8 +123,6 @@ me = YashKantJha()
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
-
 # ⚙️ ENGINEERING PHILOSOPHY
 
 ```yaml
@@ -174,8 +172,6 @@ Development Style:
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
-
 # 🚀 FEATURED PROJECTS
 
 | Project | Tech Stack | Description |
@@ -192,9 +188,19 @@ Development Style:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yashkantjha728-afk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=FF00FF&text_color=FFFFFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yashkantjha728-afk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yashkantjha728-afk&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FFFF&ring=FF00FF&fire=00FFFF&currStreakLabel=00FFFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashkantjha728-afk&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+
+</div>
+
+---
+
+# ⚡ STREAK STATS
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=yashkantjha728-afk&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -220,13 +226,29 @@ Development Style:
 
 ---
 
-# 📊 LANGUAGE STATS
+# 📊 ADVANCED PROFILE ANALYTICS
 
 <div align="center">
 
+<img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashkantjha728-afk&theme=tokyonight"/>
+
+<br><br>
+
 <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashkantjha728-afk&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yashkantjha728-afk&theme=tokyonight"/>
+<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yashkantjha728-afk&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🚀 CODING ACTIVITY
+
+<div align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yashkantjha728-afk&theme=tokyonight"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yashkantjha728-afk&theme=tokyonight"/>
 
 </div>
 
@@ -236,7 +258,11 @@ Development Style:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/yashkantjha728-afk/yashkantjha728-afk/output/github-contribution-grid-snake-dark.svg"/>
+<img width="100%" src="https://raw.githubusercontent.com/yashkantjha728-afk/yashkantjha728-afk/output/github-contribution-grid-snake-dark.svg"/>
+
+<br><br>
+
+<img width="100%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
 
 </div>
 

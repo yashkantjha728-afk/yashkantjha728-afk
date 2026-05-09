@@ -1,8 +1,18 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f0c29,25:302b63,50:24243e,75:00FFFF,100:FF00FF&text=WELCOME%20TO%20MY%20CYBERSPACE&fontSize=45&fontColor=00FFFF&animation=twinkling&fontAlignY=40"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=350&text=YASH%20KANT%20JHA&fontSize=60&fontColor=00FFFF&animation=fadeIn&stroke=00FFFF&strokeWidth=2&color=0:000000,50:0f0c29,100:00FFFF"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=35&duration=2500&pause=1000&color=00FFFF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=HELLO+WORLD+%F0%9F%91%8B;I+AM+YOUR_NAME;FULL+STACK+DEVELOPER;AI+%7C+CYBERSECURITY+%7C+DEVOPS;WELCOME+TO+THE+FUTURE"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=34&duration=2200&pause=800&color=00FFFF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=120&lines=AI+%7C+ML+TECHIE;FULL+STACK+DEVELOPER;CYBERSECURITY+%7C+DEVOPS;BUILDING+FUTURISTIC+SYSTEMS;WELCOME+TO+MY+CYBERSPACE"/>
+
+<img src="https://komarev.com/ghpvc/?username=yashkantjha728-afk&label=PROFILE+VIEWS&color=00ffff&style=for-the-badge"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="80%" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"/>
 
 </div>
 
@@ -11,103 +21,180 @@
 # 💀 SYSTEM PROFILE
 
 ```yaml
-Name: YOUR_NAME
-Username: YOUR_USERNAME
-Role: Tech Student
+Name: Yash Kant Jha
+Username: yashkantjha728-afk
+Role: AI & ML Techie
+
+Education:
+  Degree: BTech in Computer Science Engineering
+  University: GGSIPU
+  Status: Pursuing
+
 Specialization:
-  - Full Stack Development
   - Artificial Intelligence
-  - Cyber Security
+  - Machine Learning
+  - Full Stack Development
   - DevOps
   - Cloud Computing
+  - Cyber Security
 
-Currently Learning:
-  - Kubernetes
+Worked On:
+  - AI ML Systems
+  - Automation Platforms
+  - Cloud Native Applications
+  - Responsive Web Applications
+  - Deployment Pipelines
+  - Backend APIs
+  - DevOps Infrastructure
+
+Current Focus:
   - AI Agents
+  - LLM Applications
+  - Deep Learning
+  - Cloud Architecture
   - System Design
-  - Ethical Hacking
 
-Operating Systems:
-  - Linux
-  - Windows
-  - MacOS
-
-Hobbies:
-  - Coding
-  - Gaming
-  - Anime
-  - Building Futuristic Projects
-
-Motto: "Code. Create. Dominate."
+Motto: "Code. Learn. Build. Dominate."
 ```
 
 ---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
 # ⚡ ABOUT ME
 
-<img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<img align="right" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
-```javascript
-class CyberDeveloper {
-  constructor() {
-    this.name = "YOUR_NAME";
-    this.username = "YOUR_USERNAME";
-    this.role = "Tech Student";
+```python
+class YashKantJha:
 
-    this.code = [
-      "JavaScript",
-      "Python",
-      "Java",
-      "C++",
-      "TypeScript"
-    ];
+    def __init__(self):
+        self.role = "AI & ML Techie"
 
-    this.frontend = [
-      "React",
-      "Next.js",
-      "TailwindCSS"
-    ];
+        self.languages = [
+            "Python",
+            "JavaScript",
+            "TypeScript",
+            "Java",
+            "C++"
+        ]
 
-    this.backend = [
-      "Node.js",
-      "Express",
-      "MongoDB"
-    ];
+        self.interests = [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Full Stack Development",
+            "DevOps",
+            "Cyber Security"
+        ]
 
-    this.devops = [
-      "Docker",
-      "Kubernetes",
-      "AWS",
-      "Linux"
-    ];
+        self.currently_building = [
+            "AI Powered Systems",
+            "Automation Platforms",
+            "Scalable Web Apps",
+            "Cloud Native Projects"
+        ]
 
-    this.currentFocus = "Building futuristic AI systems";
-    this.funFact = "I debug faster at 2AM ☕";
-  }
-}
+        self.mindset = "Build futuristic scalable systems"
 
-const me = new CyberDeveloper();
+        self.fun_fact = "I debug faster after midnight ☕"
+
+me = YashKantJha()
 ```
 
 ---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
 # 🚀 TECH STACK
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,python,java,c,cpp,docker,kubernetes,aws,linux,bash,git,github,vscode,figma&perline=8"/>
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,express,mongodb,mysql,postgres,firebase,redis,java,c,cpp,docker,kubernetes,aws,linux,bash,git,github,vscode,figma,tensorflow,pytorch,opencv,flask,fastapi,jenkins&perline=8"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logoColor=00FFFF"/>
+<img src="https://img.shields.io/badge/HuggingFace-000000?style=for-the-badge&logo=huggingface&logoColor=FFD21E"/>
+<img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=00FFFF"/>
+<img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logoColor=00FFFF"/>
+<img src="https://img.shields.io/badge/AI%20Agents-000000?style=for-the-badge&logoColor=FF00FF"/>
 
 </div>
 
 ---
 
-# 🔥 CYBERPUNK STATS
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+
+# ⚙️ ENGINEERING PHILOSOPHY
+
+```yaml
+Design Principles:
+  - Scalability First
+  - AI Driven Systems
+  - Automation Focused
+  - Cloud Native Architecture
+  - Performance Optimized
+
+Development Style:
+  - Clean Architecture
+  - Problem Solving
+  - Research Oriented
+  - Production Mindset
+```
+
+---
+
+# 🧠 AI / ML DOMAINS
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=FF00FF&text_color=FFFFFF"/>
+![Machine Learning](https://img.shields.io/badge/MACHINE_LEARNING-000000?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+![Artificial Intelligence](https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-000000?style=for-the-badge&logo=openai&logoColor=00FFFF)
+![Deep Learning](https://img.shields.io/badge/DEEP_LEARNING-000000?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
+![Computer Vision](https://img.shields.io/badge/COMPUTER_VISION-000000?style=for-the-badge&logo=opencv&logoColor=00FFFF)
+![Automation](https://img.shields.io/badge/AUTOMATION-000000?style=for-the-badge&logo=githubactions&logoColor=00FFFF)
+![Cloud](https://img.shields.io/badge/CLOUD_NATIVE-000000?style=for-the-badge&logo=googlecloud&logoColor=00FFFF)
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FFFF&ring=FF00FF&fire=00FFFF&currStreakLabel=00FFFF"/>
+</div>
+
+---
+
+# 🛸 CURRENT MISSIONS
+
+```txt
+[✓] Building AI Systems
+[✓] Full Stack Development
+[✓] Learning Cloud & DevOps
+[✓] Scalable Backend Systems
+[✓] AI Automation Platforms
+[ ] Advanced LLM Applications
+[ ] AI Startup Vision
+[ ] Futuristic Tech Products
+```
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+
+# 🚀 FEATURED PROJECTS
+
+| Project | Tech Stack | Description |
+|---|---|---|
+| AI Face Recognition System | Python, OpenCV | Real-time AI based recognition system |
+| Automation Dashboard | Node.js, React | Smart automation & workflow management |
+| Cloud Monitoring Platform | AWS, Docker | Infrastructure monitoring system |
+| Responsive Web Platforms | MERN Stack | High performance web applications |
+| AI Chat Systems | Python, AI APIs | Conversational AI based assistants |
+
+---
+
+# 🔥 GITHUB STATS
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yashkantjha728-afk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=FF00FF&text_color=FFFFFF"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yashkantjha728-afk&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FFFF&ring=FF00FF&fire=00FFFF&currStreakLabel=00FFFF"/>
 
 </div>
 
@@ -117,7 +204,29 @@ const me = new CyberDeveloper();
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yashkantjha728-afk&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+# 🏆 GITHUB TROPHIES
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=yashkantjha728-afk&theme=tokyonight&no-frame=true&row=2&column=4"/>
+
+</div>
+
+---
+
+# 📊 LANGUAGE STATS
+
+<div align="center">
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashkantjha728-afk&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yashkantjha728-afk&theme=tokyonight"/>
 
 </div>
 
@@ -127,7 +236,7 @@ const me = new CyberDeveloper();
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/yashkantjha728-afk/yashkantjha728-afk/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
@@ -136,53 +245,53 @@ const me = new CyberDeveloper();
 # 🌌 CYBER TERMINAL
 
 ```bash
-> booting cyberpunk profile...
+> booting cyber systems...
 
-██████╗██╗   ██╗██████╗ ███████╗██████╗ 
+██████╗██╗   ██╗██████╗ ███████╗██████╗
 ██╔════╝╚██╗ ██╔╝██╔══██╗██╔════╝██╔══██╗
 ██║      ╚████╔╝ ██████╔╝█████╗  ██████╔╝
 ██║       ╚██╔╝  ██╔══██╗██╔══╝  ██╔══██╗
 ╚██████╗   ██║   ██████╔╝███████╗██║  ██║
  ╚═════╝   ╚═╝   ╚═════╝ ╚══════╝╚═╝  ╚═╝
 
-ACCESS GRANTED ✔
+AI MODULES LOADED ✔
+NEURAL NETWORKS ACTIVE ✔
 SYSTEM ONLINE ✔
-WELCOME USER ✔
+WELCOME YASH ✔
 ```
 
 ---
 
-# 🎮 CURRENT MISSIONS
+# ⚡ CURRENTLY WORKING ON
 
-```txt
-[✓] Build futuristic portfolio
-[✓] Learn AI & ML
-[✓] Master Full Stack Development
-[✓] Deploy Cloud Applications
-[ ] Build AGI
-[ ] Create Space Tech Startup
-[ ] Become Cyber Wizard
+- AI Automation Systems
+- Full Stack AI Applications
+- Cloud Native Infrastructure
+- Advanced Backend APIs
+- DevOps Workflows
+- AI Powered Web Platforms
+
+---
+
+# ☁️ DEVOPS & CLOUD
+
+```yaml
+Cloud:
+  - AWS
+  - Firebase
+  - Cloud Deployment
+
+DevOps:
+  - Docker
+  - Kubernetes
+  - Jenkins
+  - GitHub Actions
+
+Infrastructure:
+  - Linux
+  - NGINX
+  - CI/CD Pipelines
 ```
-
----
-
-# 🧠 LEETCODE STATS
-
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Nunito&ext=heatmap"/>
-
-</div>
-
----
-
-# 🎵 SPOTIFY NOW PLAYING
-
-<div align="center">
-
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem"/>
-
-</div>
 
 ---
 
@@ -206,35 +315,38 @@ WELCOME USER ✔
 
 ---
 
-# 🚀 VISITOR COUNTER
+# 🌐 CONNECT WITH ME
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=00ffff&style=for-the-badge"/>
+<a href="https://www.linkedin.com/in/yash-kant-jha-29a147299/">
+<img src="https://img.shields.io/badge/LINKEDIN-00FFFF?style=for-the-badge&logo=linkedin&logoColor=black"/>
+</a>
+
+<a href="https://www.instagram.com/yashkant.jha/">
+<img src="https://img.shields.io/badge/INSTAGRAM-FF00FF?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://x.com/jha_yash82607">
+<img src="https://img.shields.io/badge/X(Twitter)-00FFFF?style=for-the-badge&logo=x&logoColor=black"/>
+</a>
 
 </div>
 
 ---
 
-# 🌐 CONNECT WITH ME
+# 💻 NEON BADGES
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LINKEDIN-00FFFF?style=for-the-badge&logo=linkedin&logoColor=black"/>
-</a>
-
-<a href="YOUR_INSTAGRAM">
-<img src="https://img.shields.io/badge/INSTAGRAM-FF00FF?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="YOUR_TWITTER">
-<img src="https://img.shields.io/badge/TWITTER-00FFFF?style=for-the-badge&logo=x&logoColor=black"/>
-</a>
-
-<a href="YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/PORTFOLIO-FF007F?style=for-the-badge&logo=firefox&logoColor=white"/>
-</a>
+![Python](https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=00FFFF)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/REACT-000000?style=for-the-badge&logo=react&logoColor=00FFFF)
+![NodeJS](https://img.shields.io/badge/NODEJS-000000?style=for-the-badge&logo=node.js&logoColor=00FF00)
+![TensorFlow](https://img.shields.io/badge/TENSORFLOW-000000?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+![PyTorch](https://img.shields.io/badge/PYTORCH-000000?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
+![Docker](https://img.shields.io/badge/DOCKER-000000?style=for-the-badge&logo=docker&logoColor=00FFFF)
+![Kubernetes](https://img.shields.io/badge/KUBERNETES-000000?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
 
 </div>
 
@@ -250,7 +362,15 @@ WELCOME USER ✔
 
 ---
 
-# ⚡ CYBERPUNK ASCII
+<div align="center">
+
+<img width="100%" src="https://i.pinimg.com/originals/6b/99/50/6b9950c7c0f84f4794f4e6d7d2d3c7f4.gif"/>
+
+</div>
+
+---
+
+# ⚡ CYBERPUNK MODE
 
 ```txt
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⣀⣀
@@ -267,41 +387,25 @@ WELCOME USER ✔
 
 ---
 
-# 🛸 FUTURE TARGETS
+# 🧬 FUTURE TARGETS
 
 ```python
 future_goals = {
   "AI Engineer": True,
-  "Full Stack Wizard": True,
-  "DevOps Expert": True,
+  "ML Engineer": True,
+  "Full Stack Developer": True,
+  "DevOps Engineer": True,
+  "Cloud Architect": True,
   "Startup Founder": True,
-  "Cyber Security Specialist": True,
-  "Billionaire": "Loading..."
+  "Future Tech Innovator": True
 }
 ```
 
 ---
 
-# 💻 NEON BADGES
-
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=00FFFF)
-![React](https://img.shields.io/badge/REACT-000000?style=for-the-badge&logo=react&logoColor=00FFFF)
-![NodeJS](https://img.shields.io/badge/NODEJS-000000?style=for-the-badge&logo=node.js&logoColor=00FF00)
-![Linux](https://img.shields.io/badge/LINUX-000000?style=for-the-badge&logo=linux&logoColor=FFFFFF)
-![Docker](https://img.shields.io/badge/DOCKER-000000?style=for-the-badge&logo=docker&logoColor=00FFFF)
-
-</div>
-
----
-
-# 🧬 PACMAN CONTRIBUTION
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+<img width="100%" src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif"/>
 
 </div>
 
@@ -314,11 +418,12 @@ future_goals = {
 ```bash
 > SYSTEM STATUS: ONLINE
 > AI MODULE: ACTIVE
+> CLOUD SYSTEMS: CONNECTED
 > CYBER DEFENSE: ENABLED
 > USER AUTHENTICATED
 > READY TO BUILD THE FUTURE ⚡
 ```
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&section=footer&color=0:0f0c29,25:302b63,50:24243e,75:00FFFF,100:FF00FF"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&section=footer&color=0:0f0c29,25:302b63,50:24243e,75:00FFFF,100:FF00FF"/>
 
 </div>
